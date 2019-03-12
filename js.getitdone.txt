@@ -1,0 +1,54 @@
+//Intructions
+
+//Write standards-compliant JS that functions.//
+
+//Make use of both Array and Object data structures.//
+//array1
+var todo= [Task1, Task 2, Task3];
+ 
+//object1
+var todoList{
+
+ };
+ alert();
+
+
+
+
+
+//Make use of at least TWO conditional statements that play a significant role in your code.
+
+//Conditional 1 add new tasks to list by  pressing the "Add" button
+
+//Conditional 2 
+
+
+   
+
+//Make use of either Functions or Classes to organize your code.//
+
+
+//function 1 add new task to the list
+
+//function 2 caclulates number of taskson  task to complete list
+//function calculation (T1,T2,T3)
+//return T1+T2+T3;
+
+
+
+
+
+
+
+
+
+
+//Make use of at least TWO Event listeners and handlers to respond to user interaction.//
+
+//EventListener1 Need a click event listener for the checkbox
+//Event Listener2 if cursor scrolls over text, container fills with color
+
+
+//Perform at least TWO string modifications/replacements on the page.//
+
+
